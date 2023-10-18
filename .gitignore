@@ -1,3 +1,9 @@
+dataset/
+object_detection_model/
+pretrained_models/
+golden_model/
+results/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
